@@ -1,0 +1,27 @@
+.survey-item1 {
+  background-color: rgb(205, 201, 250);
+  border: 2px solid #0e56c2;
+  border-radius: 0.5rem;
+  margin-bottom: 1rem;
+  padding: 0.5rem;
+  list-style-type: decimal;
+  color: rgba(11, 6, 72, 0.927);
+}
+
+.start-survey-button {
+  background-color: #33cedf;
+  height: 2rem;
+  width: 20rem;
+  font-size: 1rem;
+  margin-bottom: 0.5rem;
+}
+
+.start-survey-button:hover {
+  background-color: #2268d0;
+}
+.item_button1 {
+  float: right;
+  width: 15%;
+  display: flex;
+  margin-top: 1rem;
+}

@@ -1,0 +1,12 @@
+.paginate {
+  display: flex;
+}
+
+.back_button1 {
+  background-color: aqua;
+  color: blue;
+  width: 5%;
+  margin-left: 1rem;
+  margin-top: 0.2rem;
+  margin-right: 32rem;
+}

@@ -1,0 +1,17 @@
+.survey-language {
+  color: #ff7f50;
+}
+p {
+  color: #4b0082;
+  font-weight: bold;
+  width: 50%;
+}
+.survey-name {
+  color: #848b00;
+  font-style: italic;
+}
+h3 {
+  color: #006400;
+  text-shadow: 2px 2px 4px #ffffff;
+  width: 50%;
+}

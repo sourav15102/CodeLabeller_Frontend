@@ -1,0 +1,26 @@
+.custom-navbar {
+  background: rgb(34, 193, 195);
+  background: linear-gradient(
+    135deg,
+    rgba(34, 193, 195, 1) 0%,
+    rgba(253, 187, 45, 1) 100%
+  );
+  font-family: "work sans";
+}
+
+.custom-navbar .navbar-brand {
+  font-size: 24px;
+}
+
+.custom-navbar .nav-link {
+  font-size: 18px;
+}
+
+.custom-navbar .nav-link:hover {
+  background-color: rgb(46, 213, 202);
+  border-radius: 1rem;
+}
+
+.custom-navbar .navbar-toggler-icon {
+  background-color: #fff;
+}
